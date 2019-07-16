@@ -33,3 +33,6 @@ print(responses.encoding)
 # 查看响应码
 print(responses.status_code)
 print(responses.json())
+
+# 查看响应时间
+print(responses.elapsed)
