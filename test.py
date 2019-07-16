@@ -3,9 +3,8 @@
 """
 @version : 
 @file : test.py
-@time : 2019/07/03 21:10:56
+@time : 2019/07/10 23:25:39
 @func : 
 """
-import platform
 
-print(platform.python_version())
+
